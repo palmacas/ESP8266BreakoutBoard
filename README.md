@@ -4,5 +4,6 @@
 
 Simple breakout board to make easy the ESP-01 programming and flash process. Ideal to use on a breadboard.
 
+---
 More information:  
 [ESP8266 Breakout Board](http://palmacas.com/esp8266-breakout-board_en/) [[Spanish]](http://palmacas.com/esp8266-breakout-board/)
